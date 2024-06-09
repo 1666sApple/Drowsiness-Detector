@@ -1,0 +1,7 @@
+path: '/run/media/i666sapple/VOLUME2/VS CODE/AssignedProject/data'
+
+train: '/run/media/i666sapple/VOLUME2/VS CODE/AssignedProject/data/images'
+val: '/run/media/i666sapple/VOLUME2/VS CODE/AssignedProject/data/images'
+
+nc: 2
+names: ['Drowsy', 'Non-Drowsy']
